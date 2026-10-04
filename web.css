@@ -45,7 +45,6 @@ home {
 home #homep1 {
   float: left;
   width: 100%;
-  border-style: solid;
   height: 50px;
   margin-top: 5px
 
@@ -54,7 +53,6 @@ home #homep1 {
 home #homep2 {
   float: left;
   width: 100%;
-  border-style: solid;
   height: 50px;
   margin-top: 0px;
 
@@ -63,7 +61,6 @@ home #homep2 {
 home #homep3 {
   float: left;
   width: 100%;
-  border-style: solid;
   height: 50px;
   margin-top: 5px
 
@@ -73,7 +70,6 @@ home #homep3 {
 sidebar {
   float: left;
   width: 50%;
-  border-style: solid;
   height: 50px;
 
 }
@@ -84,6 +80,5 @@ footer{
   margin-top: 10px;
   float: left;
   width: 50%;
-  border-style: solid;
   height: 100px;
 }
