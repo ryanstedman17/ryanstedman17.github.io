@@ -1,22 +1,22 @@
-
+* {background-color: lightgray}
 
 header {
-  border-style: solid;
-  text-align: left;
+  float: center;
+  text-align: center;
   height: 100px;
   width: 50%
 }
 
 #line1 {
-  text-align: left;
+  float: center;
+  text-align: center;
   font-size: 25px;
 }
 
 nav {
   display:inline;
-  float: left;
+  float: center;
   font-size: 25px;
-  border-style: solid;
   height: 300px;
   width: 50%;
   margin-top: 10px;
@@ -24,11 +24,9 @@ nav {
 
 #navTitle {
   padding: 10px; 
-  float: 10px left;
 }
 
 #links {
-  float: 10px left;
   margin-left: 20px;
 }
 
