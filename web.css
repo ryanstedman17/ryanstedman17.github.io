@@ -1,13 +1,10 @@
 * {background-color: lightgray}
 
 header {
-  float: left;
   height: 100px;
-  width: 50%
 }
 
 #line1 {
-  float: left;
   font-size: 25px;
 }
 
